@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Downtown Hair Salon",
+  "description": "An elegant, mobile-responsive website for a downtown hair salon featuring online booking, current style galleries, customer reviews, a contact form, and pricing details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
